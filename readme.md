@@ -1,0 +1,1 @@
+This is a repository for some of the lecture notes I have written throughout my teaching appointments. Feel free to look through and if you have any comments or suggestions, please let me know at tana4@mcmaster.ca.
